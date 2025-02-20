@@ -8,13 +8,13 @@ import {
     html,
     css,
     reactjs,
-    
+    figma,
     tailwind,
     mysql,
     nodejs,
     mongodb,
     git,
-    
+    dsa,
     cpp,
     docker,
     cu,
@@ -23,6 +23,8 @@ import {
     pizza,
     xam,
     threejs,
+    postgresql,
+    redux,
   } from "../assets";
   
   export const navLinks = [
@@ -88,7 +90,10 @@ import {
       name: "React JS",
       icon: reactjs,
     },
-   
+   {
+    name:"Redux",
+    icon:redux,
+   },
     {
       name: "Tailwind CSS",
       icon: tailwind,
@@ -106,17 +111,30 @@ import {
       icon:mysql,
     },
     {
+      name:"Postgre SQL",
+      icon:postgresql,
+    },
+    {
+      name:"Figma",
+      icon:figma,
+    },
+    {
       name: "Three JS",
       icon: threejs,
+    },
+    {
+      name:"DSA",
+      icon:dsa,
     },
     {
       name: "git",
       icon: git,
     },
     {
-      name: "docker",
-      icon: docker,
+      name:"docker",
+      icon:docker,
     },
+    
   ];
   
   const experiences = [

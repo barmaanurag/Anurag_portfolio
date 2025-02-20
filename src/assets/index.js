@@ -19,7 +19,7 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import threejs from "./tech/threejs.png";
 import bootstrap from "./tech/bootsrap.jpg";
 import python from "./tech/python.png";
 import c from "./tech/c.png";
@@ -31,10 +31,7 @@ import cu from "./company/cu.png";
 import pizza from "./YourPizza.png";
 import xam from "./Xam360.png";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+
 
 
 import tripguide from "./tripguide.png";
@@ -61,10 +58,7 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
+  
   python,
   c,
   cpp,
